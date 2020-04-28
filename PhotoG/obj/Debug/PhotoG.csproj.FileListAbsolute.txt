@@ -1,0 +1,47 @@
+Z:\minor2\PhotoG\PhotoG\bin\Debug\PhotoG.exe.config
+Z:\minor2\PhotoG\PhotoG\bin\Debug\PhotoG.exe
+Z:\minor2\PhotoG\PhotoG\bin\Debug\PhotoG.pdb
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.Form1.resources
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.Properties.Resources.resources
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.csproj.GenerateResource.Cache
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.exe
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.pdb
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.Fullscreen.resources
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.csprojResolveAssemblyReference.cache
+Z:\minor2\PhotoG\PhotoG\obj\Debug\PhotoG.Editor.resources
+G:\PhotoG\bin\Debug\PhotoG.exe.config
+G:\PhotoG\obj\Debug\PhotoG.exe
+G:\PhotoG\obj\Debug\PhotoG.pdb
+G:\PhotoG\bin\Debug\PhotoG.exe
+G:\PhotoG\bin\Debug\PhotoG.pdb
+G:\PhotoG\obj\Debug\PhotoG.csprojResolveAssemblyReference.cache
+G:\PhotoG\obj\Debug\PhotoG.Form1.resources
+G:\PhotoG\obj\Debug\PhotoG.Editor.resources
+G:\PhotoG\obj\Debug\PhotoG.Fullscreen.resources
+G:\PhotoG\obj\Debug\PhotoG.Properties.Resources.resources
+G:\PhotoG\obj\Debug\PhotoG.csproj.GenerateResource.Cache
+G:\PhotoG\bin\Debug\PhotoG.exe.manifest
+G:\PhotoG\bin\Debug\PhotoG.application
+G:\PhotoG\obj\Debug\PhotoG.exe.manifest
+G:\PhotoG\obj\Debug\PhotoG.application
+C:\Users\I BALL\Desktop\PhotoG\bin\Debug\PhotoG.exe.config
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.exe
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.pdb
+C:\Users\I BALL\Desktop\PhotoG\bin\Debug\PhotoG.exe.manifest
+C:\Users\I BALL\Desktop\PhotoG\bin\Debug\PhotoG.application
+C:\Users\I BALL\Desktop\PhotoG\bin\Debug\PhotoG.exe
+C:\Users\I BALL\Desktop\PhotoG\bin\Debug\PhotoG.pdb
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Form1.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Editor.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Form2.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Fullscreen.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Properties.Resources.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.csproj.GenerateResource.Cache
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.exe.manifest
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.application
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Form3.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Form4.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.csprojResolveAssemblyReference.cache
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Crop.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Form5.resources
+C:\Users\I BALL\Desktop\PhotoG\obj\Debug\PhotoG.Form6.resources
